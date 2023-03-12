@@ -224,7 +224,7 @@ export const CreatePostsScreen = ({ navigation }) => {
                                     onPress={sendPhotoEndData}
                                 >
                                     <Text style={styles.btnTitle}>
-                                        Створити публікцію
+                                        Створити публікацію
                                     </Text>
                                 </TouchableOpacity>
                             </View>
